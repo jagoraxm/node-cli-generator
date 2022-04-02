@@ -1,0 +1,17 @@
+{
+  "name": "npm-js-jag",
+  "version": "1.0.0",
+  "description": "# Requirements * ... * ... * ...",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^9.2.2"
+  },
+  "author": "JAG",
+  "license": "MIT"
+}

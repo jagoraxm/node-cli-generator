@@ -1,0 +1,20 @@
+{
+  "name": "npm-ts-jag",
+  "version": "1.0.0",
+  "description": "# Requirements * ... * ... * ...",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "directories": {
+    "test": "test",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^9.2.2"
+  },
+  "author": "JAG",
+  "license": "MIT"
+}

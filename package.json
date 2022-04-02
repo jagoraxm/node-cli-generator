@@ -1,0 +1,29 @@
+{
+  "name": "cli-generator-jag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagoraxm/node-cli-generator.git"
+  },
+  "author": "JAG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagoraxm/node-cli-generator/issues"
+  },
+  "bin": {
+    "npm-cli-creator-jag": "./index.js"
+  },
+  "homepage": "https://github.com/jagoraxm/node-cli-generator#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "ejs": "^3.1.6",
+    "inquirer": "^8.2.2",
+    "shelljs": "^0.8.5"
+  }
+}
